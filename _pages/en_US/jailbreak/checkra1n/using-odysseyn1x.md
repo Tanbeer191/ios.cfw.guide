@@ -75,7 +75,9 @@ The following steps only need to be performed once and are optional but highly r
 1. Ensure that your computer is trusted by your device
 1. Select `Odysseyra1n` in Odysseyn1x
 1. Sileo should install to your device
-1. Do not close Odysseyn1x as you will need to re-jailbreak in a few minutes
+1. Open Sileo, navigate to Search and search for "libhooker"
+1. Press "Confirm", then once it finishes, press "Restart Springboard."
+1. Wait for your device to respring
 
 {% include_relative include/no-loader.md %}
 

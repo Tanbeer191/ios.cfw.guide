@@ -30,4 +30,9 @@ To install Odysseyra1n, <u>do not</u> open the checkra1n app and install Cydia. 
 
     `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/coolstar/Odyssey-bootstrap/master/procursus-deploy-linux-macos.sh)"`
 
+1. Sileo should install to your device
+1. Open Sileo, navigate to Search and search for "libhooker"
+1. Press "Confirm", then once it finishes, press "Restart Springboard."
+1. Wait for your device to respring
+
 {% include_relative include/end-of-page.md %}
